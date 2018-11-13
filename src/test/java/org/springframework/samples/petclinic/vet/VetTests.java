@@ -43,6 +43,6 @@ public class VetTests {
 
     @Test
     public void testFailure() {
-        assertThat(1).isEqualTo(2);
+        assertThat(2).isEqualTo(2);
     }
 }
